@@ -1,0 +1,28 @@
+{
+  "name": "inspect_url",
+  "version": "0.0.1",
+  "description": "URL Analyzer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJESH/Inspect_URL.git"
+  },
+  "keywords": [
+    "urlAnalyzer"
+  ],
+  "author": "Jenish Paghadal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsJESH/Inspect_URL/issues"
+  },
+  "homepage": "https://github.com/ItsJESH/Inspect_URL#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "validate": "^5.2.0",
+    "validator": "^13.12.0"
+  }
+}
